@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Inter'
+}
+
+main {
+    margin: 5px 45px 10px 45px;
+
+}
+
+.top {
+    margin: 20px;
+}
+
+.main-section {
+    margin-top: 20px;
+    height: 168px;
+    display: flex;
+}
+
+.nav-block {
+    display: flex;
+    background: #F55A5A;
+    width: 100%;
+    height: 55px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+
+}
+
+.logo-img {
+    margin-right: 5px;
+}
+
+.pin-logo{
+    width: 7px;
+    height: 9.55px;
+    margin-right: 4px;
+}
+
+.image-url {
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+}
+
+
+.journal-line1 {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.country-name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+
+    color: #2B283A;
+    margin-right: 12px;
+}
+
+.journal-card {
+    margin-left: 19px;
+}
+
+.map-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+
+h2 {
+    margin-top: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+h3 {
+    margin-top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.description {
+    margin-top: 9px;
+    width: 326px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+hr {
+    margin-top: 0px;
+    margin-left: 45px;
+    border: 1px solid #F5F5F5;
+}
