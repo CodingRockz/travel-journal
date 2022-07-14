@@ -1,4 +1,4 @@
-# coa3d4203bb55d3991f8836a6
+# Travel Journal project - React Scrimba Course
 
 Quick start:
 
